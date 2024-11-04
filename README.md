@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-Professional code monkey, part-time clown.
+I hail from the great state of denial.
 
-I am currently on the grind to make my GitHub profile less boring.
+I am a 🌟 professional code monkey 🌟, and a ⭐ part-time clown. ⭐
+
+⚡ I'm currently on my quest to make my GitHub profile less boring. ⚡
+
+I would like to not be homeless in the future.
 
 <!--
 **yijiano/yijiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
