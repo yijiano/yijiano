@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Professional code monkey, part-time clown.
+
+I am currently on the grind to make my GitHub profile less boring.
+
 <!--
 **yijiano/yijiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
