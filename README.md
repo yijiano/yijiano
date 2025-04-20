@@ -6,10 +6,8 @@ I’m a professional code monkey 💻 and part-time clown 🤡
 
 I'm currently on my quest to make my GitHub profile less boring ⚡
 
-## Fun Stuff
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yijiano&&theme=tokyonight&layout=donut&langs_count=8"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yijiano&&theme=tokyonight&layout=compact&langs_count=8"  />
 </a>
 
 <!--
