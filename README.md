@@ -6,7 +6,7 @@ I’m a professional code monkey 💻 and part-time clown 🤡
 
 I'm currently on my quest to make my GitHub profile less boring ⚡
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yijiano&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yijiano&theme=tokyonight&layout=compact)](https://github.com/yijiano/github-readme-stats)
 
 
 <!--
