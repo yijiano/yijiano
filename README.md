@@ -3,6 +3,7 @@
 🏫 Computer Engineering @ NUS
 
 I’m a professional code monkey 💻 and part-time clown 🤡
+
 I'm currently on my quest to make my GitHub profile less boring ⚡
 
 <!--
