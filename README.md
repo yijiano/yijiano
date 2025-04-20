@@ -1,7 +1,5 @@
 ## Morning
 
----
-
 🏫 Computer Engineering @ NUS
 
 I’m a professional code monkey 💻 and part-time clown 🤡
