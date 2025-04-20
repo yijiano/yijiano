@@ -12,7 +12,7 @@ I'm currently on my quest to make my GitHub profile less boring ⚡
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yijiano&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yijiano&&theme=tokyonightlayout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yijiano&&theme=tokyonight&layout=compact&card_width=320" />
 </a>
 
 <!--
