@@ -1,8 +1,11 @@
-## Hi there 👋
+## Morning
 
-I am a 🌟 professional code monkey 🌟, and a ⭐ part-time clown. ⭐
+---
 
-⚡ I'm currently on my quest to make my GitHub profile less boring. ⚡
+🏫 Computer Engineering @ NUS
+
+I’m a professional code monkey 💻 and part-time clown 🤡
+I'm currently on my quest to make my GitHub profile less boring ⚡
 
 <!--
 **yijiano/yijiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
