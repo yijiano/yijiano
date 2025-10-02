@@ -6,7 +6,11 @@
 
 🤡 ~~Part-time~~ Full-time elec clown 
 
-⚡ I'm on my quest to make my GitHub profile less boring ⚡
+I'm on a quest to make my GitHub profile more exciting.
+
+📈📉💸💸🤔 It's hard out here in this economy. 
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yijiano&&theme=tokyonight&layout=compact&langs_count=8"  />
