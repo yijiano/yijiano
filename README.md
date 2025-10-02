@@ -1,5 +1,3 @@
-# Morning
-
 🏫 Computer Engineering @ NUS
 
 💻 Professional code monkey 
