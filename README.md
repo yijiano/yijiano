@@ -2,9 +2,11 @@
 
 🏫 Computer Engineering @ NUS
 
-I’m a professional code monkey 💻 and part-time clown 🤡
+💻 Professional code monkey 
 
-I'm currently on my quest to make my GitHub profile less boring ⚡
+🤡 ~~Part-time~~ Full-time elec clown 
+
+⚡ I'm on my quest to make my GitHub profile less boring ⚡
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yijiano&&theme=tokyonight&layout=compact&langs_count=8"  />
