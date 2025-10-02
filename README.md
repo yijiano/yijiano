@@ -4,7 +4,7 @@
 
 💻 Professional code monkey 
 
-🤡 ~~Part-time~~ Full-time elec clown 
+🤡 ~~Part-time~~ Full-time hardware clown 
 
 I'm on a quest to make my GitHub profile more exciting.
 
